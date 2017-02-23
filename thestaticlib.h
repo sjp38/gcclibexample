@@ -1,0 +1,1 @@
+int staticfoo(void);
